@@ -14,7 +14,7 @@ import SupportIcon from '@/components/icons/IconSupport.vue'
     </template>
     <template #heading>Docker</template>
     <h4>官方方法：docker pull nginx:alpine 或 docker pull bitnami/kubectl</h4>
-    <h4>加速方法：docker pull docker.cloudimages.asia/library/nginx:alpine</h4>
+    <h4>加速方法：docker pull docker.cloudimages.asia/nginx:alpine</h4>
     <h4>加速方法：docker pull docker.cloudimages.asia/bitnami/kubectl</h4>
     <br />
   </WelcomeItem>
