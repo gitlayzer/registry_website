@@ -25,7 +25,9 @@ import BlogIcon from '@/components/icons/IconBlog.vue'
     </template>
     <template #heading>Kubernetes</template>
     <h4>官方方法：docker pull registry.k8s.io/coredns/coredns:v1.11.1</h4>
+    <h4>官方方法：docker pull k8s.gcr.io/pause:3.6</h4>
     <h4>加速方法：docker pull k8s.cloudimages.asia/coredns/coredns:v1.11.1</h4>
+    <h4>加速方法：docker pull k8s-gcr.cloudimages.asia/pause:3.6</h4>
     <br />
   </WelcomeItem>
 
