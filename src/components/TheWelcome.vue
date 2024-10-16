@@ -15,6 +15,7 @@ import BlogIcon from '@/components/icons/IconBlog.vue'
     </template>
     <template #heading>Docker</template>
     <h4>官方方法：docker pull nginx:alpine</h4>
+    <h4>加速方法：docker pull jockerhub.us.kg/nginx:alpine</h4>
     <h4>加速方法：docker pull docker.cloudimages.asia/nginx:alpine</h4>
     <br />
   </WelcomeItem>
